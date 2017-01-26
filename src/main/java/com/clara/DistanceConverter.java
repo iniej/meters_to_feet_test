@@ -23,8 +23,9 @@ public class DistanceConverter {
     public static int metersToFeet(int meters){
         //TODO! This method doesn't work yet. Can you fix it?
         //To convert meters to feet, multiply by 3
+       int meteeToFeet = meters*3;
 
-        return 0;
+        return meteeToFeet;
     }
 
     // I know doubles would be more real world but we are keeping it simple
